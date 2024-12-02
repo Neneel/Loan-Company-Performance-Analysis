@@ -31,8 +31,10 @@ Improve customer satisfaction
 
 
 ### DATA DESCRIPTION
-Data Overview
+### Data Overview
 This loan dataset contains detailed information on a range of loans issued by a financial institution, including several categories of variables, such as borrower demographics, loan attributes, and repayment history, making it a valuable resource for understanding factors that impact loan performance.
+
+
 
 ### Key Features
 #### 1. Borrower Information
@@ -68,6 +70,13 @@ This loan dataset contains detailed information on a range of loans issued by a 
 •	Installment	Monthly: Installment amount for the loan.
 Total Payment: Total amount paid by the borrower by the end of the loan period.
 
+### Tools Used 
+For Data cleaning: Microsoft Excel
+
+For Analysis: Microsoft Excel
+
+For Visualizations: Microsoft Excel
+
 
 ## METHODOLOGY
 
@@ -99,6 +108,17 @@ To uncover patterns and trends, descriptive and visual analyses were conducted:
 
 •	"Creditworthiness” was derived from the Loan Status, to identify good and bad loans.
 
+## Pivot Tables
+![pivot 1](https://github.com/user-attachments/assets/e3520697-66e7-4930-9fea-2e9e00a664f1)
+![pivot 3](https://github.com/user-attachments/assets/50b8133b-c680-4f7b-92d4-65cb9db0ac3b)
+![pivot 2](https://github.com/user-attachments/assets/234ffafd-f342-413d-bea5-ecebc1cd5ff8)
+
+
+## Visualizations
+![Dashboard 2](https://github.com/user-attachments/assets/0bd22fb6-02c8-4155-8d9b-22a5ecc85dc0)
+![Dashboard](https://github.com/user-attachments/assets/8a8ffdd8-5fd7-4130-b0a8-98f9f47008be)
+
+
 
 ## FINDINGS
 An interactive summary dashboard was created using PivotTables and charts to visualize key findings.
@@ -121,28 +141,46 @@ An interactive summary dashboard was created using PivotTables and charts to vis
 
 ## RECOMMENDATIONS
 ### 1.	Address High Default Risks from Borrowers with High DTI Ratios:
-    To address the high default risks, I would suggest;
+To address the high default risks, I would suggest;
    
 •	Impose stricter limits on allowable DTI ratios for loan approvals. For borrowers with borderline DTI ratios, consider offering loans with shorter terms or higher interest rates to mitigate risk.
 
 •	Track high-DTI borrowers closely post-loan issuance and provide reminders or financial counseling to help manage their repayment schedules.
 
-3.	Mitigate Risks in "Debt Consolidation" Loans
+### 2.	Mitigate Risks in "Debt Consolidation" Loans
+
 •	Implement additional checks for borrowers seeking debt consolidation loans, as this category has higher bad loans.
+
 •	Provide financial education to borrowers in this segment to help them manage their consolidated debts effectively.
-4.	Leverage Insights from Income Band Trends
+
+### 3.	Leverage Insights from Income Band Trends
+
 •	Since the $4,000–$114,000 income band constitutes the majority of loans (both good and bad), focus on tailored products for this group to maximize profitability while minimizing risks.
+
 •	Develop incentives to attract borrowers in higher income bands (e.g., $1,874,000–$1,984,000), such as competitive interest rates and premium benefits, to diversify the loan portfolio.
-5. Optimize Interest Rates Based on Income Levels
+
+### 4. Optimize Interest Rates Based on Income Levels
+
 •	I recommend to continue to offer lower interest rates to high-income borrowers to attract low-risk profiles. 
-6. Capitalize on Seasonal Trends
+
+### 5. Capitalize on Seasonal Trends
+
 •	Launch targeted marketing campaigns in November and December to capture the seasonal surge in loan applications.
+
 •	Ensure adequate staffing and resources during December to handle the peak in loan issuance efficiently.
-7. Improve Verification Processes
+
+### 6. Improve Verification Processes
+
 •	Make information verification mandatory for borrowers in high-risk categories (e.g., high DTI, "Debt Consolidation" loans) to reduce default rates.
+
 •	For good borrowers with non-verified information, consider streamlining the verification process to improve loan quality without deterring applications.
-8. Target Regional Opportunities
+
+### 7. Target Regional Opportunities
+
 •	Since California has the highest number of both good and bad loans, focus on offering tailored loan products specific to this market. For example:
+
 a)	Incentivize good borrowers with rewards or rate discounts.
+
 b)	Introduce stricter checks for high-risk profiles in this region.
+
 •	Use insights from California's borrower data to replicate success in other regions.
