@@ -108,13 +108,13 @@ To uncover patterns and trends, descriptive and visual analyses were conducted:
 
 •	"Creditworthiness” was derived from the Loan Status, to identify good and bad loans.
 
-## Pivot Tables
+## PIVOT TABLES
 ![pivot 1](https://github.com/user-attachments/assets/e3520697-66e7-4930-9fea-2e9e00a664f1)
 ![pivot 3](https://github.com/user-attachments/assets/50b8133b-c680-4f7b-92d4-65cb9db0ac3b)
 ![pivot 2](https://github.com/user-attachments/assets/234ffafd-f342-413d-bea5-ecebc1cd5ff8)
 
 
-## Visualizations
+## VISUALIZATIONS
 ![Dashboard 2](https://github.com/user-attachments/assets/0bd22fb6-02c8-4155-8d9b-22a5ecc85dc0)
 ![Dashboard](https://github.com/user-attachments/assets/8a8ffdd8-5fd7-4130-b0a8-98f9f47008be)
 
